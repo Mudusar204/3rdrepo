@@ -6,7 +6,10 @@
 p{
     color: white;
     background-color: black;
+    text-transform: capitalize;
+    font-weight: bold;
 }
 h1{
     color: aqua;
+    text-align: center;
 }
