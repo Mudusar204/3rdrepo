@@ -2,8 +2,8 @@
     margin: 0px;
     padding: 0px;
 }
-
-p{
+/* 
+{
     color: white;
     background-color: black;
     text-transform: capitalize;
@@ -12,4 +12,13 @@ p{
 h1{
     color: aqua;
     text-align: center;
+} */
+.red {
+    background-color: red;
+}
+.blue {
+background-color: blue;
+}
+.yellow {
+    background-color: yellow;
 }
